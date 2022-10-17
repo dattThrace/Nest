@@ -1,0 +1,38 @@
+<manifest/>
+  <remote fetch="https://nest-open-source.googlesource.com/manifest_repos" name="nest-open-source"/>
+  <project name="alsa-lib" remote="nest-open-source" revision="91b115c7e2882e4b0087bde5650efc541c438b1a"/>
+  <project name="bridge-utils" remote="nest-open-source" revision="303a9979fb93489ad58348e393c87436312106c2"/>
+  <project name="conntrack-tools" remote="nest-open-source" revision="4c4e40093d0f0c116a93c1ce5373c58cf9fd3d70"/>
+  <project name="cryptsetup" remote="nest-open-source" revision="3a262f0bc7b6e4ef39a61dd64ee5f31e5aef12d3"/>
+  <project name="dbus" remote="nest-open-source" revision="43c6348542b72e8edfee011a4c17a3f3dee0c63a"/>
+  <project name="dnsmasq" remote="nest-open-source" revision="c3b7385e1e6b39b363450f5bb79f0630d05e20df"/>
+  <project name="ebtables" remote="nest-open-source" revision="0c98f6016b2a6e1ea3a5e140e370952ea1e493a5"/>
+  <project name="glib" remote="nest-open-source" revision="68241b9d3cffd9b4682b75fd66d5c85cea11ac44"/>
+  <project name="igmpproxy" remote="nest-open-source" revision="c54ba6ad0e92486f1a964eeabca08913d2cba90b"/>
+  <project name="iproute2" remote="nest-open-source" revision="f884de135f5988a918544ba8274c1cdf246f8513"/>
+  <project name="ipset" remote="nest-open-source" revision="01228e542239c5743741f5c95631e41077f074d7"/>
+  <project name="iptables" remote="nest-open-source" revision="f0e5b60f468d4f5458181631368b088622b7e075"/>
+  <project name="libexif" remote="nest-open-source" revision="7c1a0bd46215fa04067710d4441849d5c5c0b5bf"/>
+  <project name="libmicrohttpd" remote="nest-open-source" revision="5c42ccd3f70c4c10d5d042710706873e1c7a0f01"/>
+  <project name="libmnl" remote="nest-open-source" revision="d4327043ce47f927a9073e4e0363fecffb01925a"/>
+  <project name="libnetfilter_conntrack" remote="nest-open-source" revision="546cbe507c0a9ada032ee680d5e8f5c9717c0610"/>
+  <project name="libnetfilter_cthelper" remote="nest-open-source" revision="ba3c1ff7495a88d1600690d5d1c6d3780453de3c"/>
+  <project name="libnetfilter_queue" remote="nest-open-source" revision="9a0e8cfd4d4e2891274d37b659923298756031a3"/>
+  <project name="libnfnetlink" remote="nest-open-source" revision="40aa48d449b8a34b3e84d7690979c1087ca4ce52"/>
+  <project name="libnl" remote="nest-open-source" revision="467f86d798afab5215d596341f21a9d74ead32a3"/>
+  <project name="lvm2" remote="nest-open-source" revision="a78b5231016105c280db9c7ead6048a9f7a86099"/>
+  <project name="nss" remote="nest-open-source" revision="5dafc855f73b89b7e2eaef2ad2aa6f26e9e610b7"/>
+  <project name="ppp" remote="nest-open-source" revision="0bf71438b51cf854319269a59224188d1ec35b48"/>
+  <project name="selinux" remote="nest-open-source" revision="8165f0001d4a8e910c21f869c98bcd8713434676"/>
+  <project name="util-linux" remote="nest-open-source" revision="fbf4d2c62e307b6fc127b2fd02387ad7447ee1ff"/>
+  <project name="watchdog" remote="nest-open-source" revision="78fb399aecfe17c370092df110f143d0792e996e"/>
+  <project name="zlib" remote="nest-open-source" revision="b666e17a62283dee172fe871905aaffe5c700228"/>
+  <project name="ethtool" remote="nest-open-source" revision="8a02481d3d09e0e94755f282923c0ca17f47eed0"/>
+  <project name="libusb" remote="nest-open-source" revision="75f7cd68c64cc37f0bc24a5f1d75dd4d8892da90"/>
+  <project name="toolchain" remote="nest-open-source" revision="6780b963c23698eec2da1b808ecb804d273516cf"/>
+  <project name="nspr" remote="nest-open-source" revision="1c058689d82d08dfcd3e97cd659a524a90060939"/>
+  <project name="ffmpeg" remote="nest-open-source" revision="62cf23d89db2251203d6207e2261ddc5498167c6"/>
+  <project name="bootloader" remote="nest-open-source" revision="6bfdac06e51797a9d969343386055eb7a77616bb"/>
+  <project name="kernel" remote="nest-open-source" revision="9103b5be248adbab07676404365345e64cc8654b"/>
+  <project name="sdk" remote="nest-open-source" revision="ae44557b77d81b2a95af25a2d793d1bcec1c8cc3"/>
+</manifest/>
