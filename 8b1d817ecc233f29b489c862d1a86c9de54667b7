@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "02fb5fe0_2da2c300",
+        "filename": "README.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000070
+      },
+      "writtenOn": "2022-10-26T22:20:53Z",
+      "side": 1,
+      "message": "what about the other 2 manifest, especially the one for 0day?",
+      "revId": "8b1d817ecc233f29b489c862d1a86c9de54667b7",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
