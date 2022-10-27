@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "16eedf9f_5c3ed1c6",
+        "filename": "README.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-10-27T17:57:52Z",
+      "side": 1,
+      "message": "is this a typo?",
+      "range": {
+        "startLine": 6,
+        "startChar": 106,
+        "endLine": 6,
+        "endChar": 107
+      },
+      "revId": "7306d33d2830b30538f881f7cd96ab9dd9a85033",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e9159a9f_a9e188f3",
+        "filename": "README.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-10-27T17:57:52Z",
+      "side": 1,
+      "message": "can you test the command and see if it works? I am not certain about the nest-wifi-pro/ part.",
+      "range": {
+        "startLine": 11,
+        "startChar": 2,
+        "endLine": 11,
+        "endChar": 102
+      },
+      "revId": "7306d33d2830b30538f881f7cd96ab9dd9a85033",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
