@@ -34,6 +34,24 @@
       "parentUuid": "02fb5fe0_2da2c300",
       "revId": "8b1d817ecc233f29b489c862d1a86c9de54667b7",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff619870_2c80b556",
+        "filename": "README.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-10-27T02:10:01Z",
+      "side": 1,
+      "message": "Fixed the \u0027repo init\u0027 command",
+      "parentUuid": "4454e422_2c6a29e6",
+      "revId": "8b1d817ecc233f29b489c862d1a86c9de54667b7",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
