@@ -18,6 +18,24 @@
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1df40025_b9d8e8c6",
+        "filename": "README.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-10-27T05:41:44Z",
+      "side": 1,
+      "message": "not sure if I can do highlighting in code block. So I highlight the file name in the text above.",
+      "parentUuid": "6c7ab499_c89862a4",
+      "revId": "6ac26094d55e63fd315f4886e3858bf0f2d8416e",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "43d4f2b0_862f5192",
@@ -31,6 +49,30 @@
       "writtenOn": "2022-10-27T05:09:21Z",
       "side": 1,
       "message": "nit: I suggest putting all in the same line with -b first and adding $ at the beginning\n$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest-wifi-pro/308974.xml\n$ repo sync",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 9
+      },
+      "revId": "6ac26094d55e63fd315f4886e3858bf0f2d8416e",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f52d252b_1c939816",
+        "filename": "README.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-10-27T05:41:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "43d4f2b0_862f5192",
       "range": {
         "startLine": 11,
         "startChar": 0,
