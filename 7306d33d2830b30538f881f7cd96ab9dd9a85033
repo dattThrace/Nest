@@ -24,6 +24,30 @@
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a30c4b1_64b6b7bf",
+        "filename": "README.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-10-27T20:25:38Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "16eedf9f_5c3ed1c6",
+      "range": {
+        "startLine": 6,
+        "startChar": 106,
+        "endLine": 6,
+        "endChar": 107
+      },
+      "revId": "7306d33d2830b30538f881f7cd96ab9dd9a85033",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e9159a9f_a9e188f3",
@@ -37,6 +61,30 @@
       "writtenOn": "2022-10-27T17:57:52Z",
       "side": 1,
       "message": "can you test the command and see if it works? I am not certain about the nest-wifi-pro/ part.",
+      "range": {
+        "startLine": 11,
+        "startChar": 2,
+        "endLine": 11,
+        "endChar": 102
+      },
+      "revId": "7306d33d2830b30538f881f7cd96ab9dd9a85033",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72e33732_0b0fb76a",
+        "filename": "README.md",
+        "patchSetId": 12
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-10-27T20:25:38Z",
+      "side": 1,
+      "message": "$ repo init -u https://nest-open-source.googlesource.com/manifests -b refs/changes/40/1040/17 -m nest-wifi-pro/313259.xml \nDownloading Repo source from https://gerrit.googlesource.com/git-repo\nremote: Total 4 (delta 3), reused 4 (delta 3)\n\nYour identity is: William Yan \u003cwyan@google.com\u003e\nIf you want to change this, please re-run \u0027repo init\u0027 with --config-name\n\nrepo has been initialized in /tmp/nest-open-source.checkout2",
+      "parentUuid": "e9159a9f_a9e188f3",
       "range": {
         "startLine": 11,
         "startChar": 2,
