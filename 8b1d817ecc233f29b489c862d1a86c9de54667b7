@@ -16,6 +16,24 @@
       "message": "what about the other 2 manifest, especially the one for 0day?",
       "revId": "8b1d817ecc233f29b489c862d1a86c9de54667b7",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4454e422_2c6a29e6",
+        "filename": "README.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-10-27T01:13:16Z",
+      "side": 1,
+      "message": "They can look up for the manifest they are interested under https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest-wifi-pro.\n\n\nhmmm the \"repo init\" command looks wrong. I need look it up. I dont run this command often.",
+      "parentUuid": "02fb5fe0_2da2c300",
+      "revId": "8b1d817ecc233f29b489c862d1a86c9de54667b7",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
