@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "92ee8921_6e841511",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-10-31T20:52:28Z",
+      "side": 1,
+      "message": "Test: \n\n$ repo init -u https://nest-open-source.googlesource.com/manifests -b refs/changes/60/1060/1 -m nest-wifi-pro/318999.xml\nrepo: reusing existing repo client checkout in /tmp/nest-open-source\n\nrepo has been initialized in /tmp/nest-open-source",
+      "revId": "186cd8a00b1957e937e8aaadc4ac9c3159d65b80",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
