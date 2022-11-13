@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e0aa468_9eb43e85",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:08:00Z",
+      "side": 1,
+      "message": "Can we follow nest-wifi-pro to use marketing names?\nchirp -\u003e Google Home\nelaine -\u003e Nest Hub with Sleep Sensing\njoplin -\u003e Google Home Mini\nprince -\u003e Nest Audio\nvalens -\u003e Nest Mini",
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
