@@ -16,6 +16,201 @@
       "message": "Can we follow nest-wifi-pro to use marketing names?\nchirp -\u003e Google Home\nelaine -\u003e Nest Hub with Sleep Sensing\njoplin -\u003e Google Home Mini\nprince -\u003e Nest Audio\nvalens -\u003e Nest Mini",
       "revId": "fc901d06ba3546877fff92976a1b798eae318726",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4784aa63_b180ea51",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "Perhaps just Nest wifis, smart speakers and displays?",
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "120cf331_7d3fd0fe",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "displays",
+      "range": {
+        "startLine": 5,
+        "startChar": 69,
+        "endLine": 5,
+        "endChar": 78
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3acba8cb_85269c22",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "speakers",
+      "range": {
+        "startLine": 5,
+        "startChar": 56,
+        "endLine": 5,
+        "endChar": 64
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a7beda29_62777a69",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "Looks like this is following google store\u0027s name. 👍",
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d9e782da_5e638403",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "update",
+      "range": {
+        "startLine": 27,
+        "startChar": 30,
+        "endLine": 27,
+        "endChar": 43
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b49a669d_c28151ff",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "need update",
+      "range": {
+        "startLine": 28,
+        "startChar": 1,
+        "endLine": 28,
+        "endChar": 8
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b1640512_8efaf15e",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "elaine",
+      "range": {
+        "startLine": 33,
+        "startChar": 78,
+        "endLine": 33,
+        "endChar": 85
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9b9c26f2_026b7514",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "use \", 2nd gen\" to be consistent",
+      "range": {
+        "startLine": 49,
+        "startChar": 21,
+        "endLine": 49,
+        "endChar": 23
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ced4bb7e_39a54d3a",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1000050
+      },
+      "writtenOn": "2022-11-13T17:14:31Z",
+      "side": 1,
+      "message": "chirp",
+      "range": {
+        "startLine": 76,
+        "startChar": 1,
+        "endLine": 76,
+        "endChar": 6
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
