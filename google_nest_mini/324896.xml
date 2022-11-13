@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://nest-open-source.googlesource.com/manifest_repos" name="nest-open-source"/>
+  <project name="alsa-lib" remote="nest-open-source" revision="91b115c7e2882e4b0087bde5650efc541c438b1a"/>
+  <project name="alsa-utils" remote="nest-open-source" revision="858b2fc35f68009d5f98b3d663bc9b320ebdfe22"/>
+  <project name="dnsmasq" remote="nest-open-source" revision="c3b7385e1e6b39b363450f5bb79f0630d05e20df"/>
+  <project name="i2c-tools" remote="nest-open-source" revision="870a7087a41b6080526527887f9a48eb2835f04c"/>
+  <project name="iptables" remote="nest-open-source" revision="7cd15d7973bba788c25250a0e822213434418c44"/>
+  <project name="libexif" remote="nest-open-source" revision="a8daec877f107739badd2dbb31a3e57bab01a9a6"/>
+  <project name="libnl" remote="nest-open-source" revision="467f86d798afab5215d596341f21a9d74ead32a3"/>
+  <project name="lvm2" remote="nest-open-source" revision="a78b5231016105c280db9c7ead6048a9f7a86099"/>
+  <project name="nss" remote="nest-open-source" revision="4c27b2c95aa58cee220d6d993f969b63a7261e83"/>
+  <project name="util-linux" remote="nest-open-source" revision="54b08314b77c130a9b816d4a1e9cb26be46a1fc1"/>
+  <project name="watchdog" remote="nest-open-source" revision="261f054cbd85bf396bcc1307b1ae1b1f8eb5fe08"/>
+  <project name="zlib" remote="nest-open-source" revision="4ee018530fba045f416e3e4a7ef0b464b5fa1169"/>
+  <project name="libusb" remote="nest-open-source" revision="4d7380845376a6fe2e59536453acc59e1c486781"/>
+  <project name="toolchain" remote="nest-open-source" revision="c7c241f85c5be911addac87ca5a17b16e631ed49"/>
+  <project name="nspr" remote="nest-open-source" revision="f32a5c442783f9f82aa0c145e5d83321b0719ac0"/>
+  <project name="salami" remote="nest-open-source" revision="3d9c65a80adb9a1408b9cc521f06b2ebfdd1dfb6"/>
+</manifest>
