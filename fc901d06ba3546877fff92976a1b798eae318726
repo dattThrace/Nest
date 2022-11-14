@@ -81,6 +81,72 @@
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ce390e4_13c993ae",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3acba8cb_85269c22",
+      "range": {
+        "startLine": 5,
+        "startChar": 56,
+        "endLine": 5,
+        "endChar": 64
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9121d9eb_0352e666",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4784aa63_b180ea51",
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df88ab2f_1208b507",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "120cf331_7d3fd0fe",
+      "range": {
+        "startLine": 5,
+        "startChar": 69,
+        "endLine": 5,
+        "endChar": 78
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a7beda29_62777a69",
@@ -98,6 +164,24 @@
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7477ee44_965abc13",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "I use the public name in the go/nest-codename.",
+      "parentUuid": "a7beda29_62777a69",
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d9e782da_5e638403",
@@ -111,6 +195,30 @@
       "writtenOn": "2022-11-13T17:14:31Z",
       "side": 1,
       "message": "update",
+      "range": {
+        "startLine": 27,
+        "startChar": 30,
+        "endLine": 27,
+        "endChar": 43
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8f84f0de_24e07e4d",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d9e782da_5e638403",
       "range": {
         "startLine": 27,
         "startChar": 30,
@@ -144,6 +252,30 @@
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "997208fe_925a53aa",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b49a669d_c28151ff",
+      "range": {
+        "startLine": 28,
+        "startChar": 1,
+        "endLine": 28,
+        "endChar": 8
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b1640512_8efaf15e",
@@ -157,6 +289,30 @@
       "writtenOn": "2022-11-13T17:14:31Z",
       "side": 1,
       "message": "elaine",
+      "range": {
+        "startLine": 33,
+        "startChar": 78,
+        "endLine": 33,
+        "endChar": 85
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "feb5c62f_0d1a1e1e",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b1640512_8efaf15e",
       "range": {
         "startLine": 33,
         "startChar": 78,
@@ -190,6 +346,30 @@
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6fe7d360_86409369",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "I use the public name in the go/nest-codename.",
+      "parentUuid": "9b9c26f2_026b7514",
+      "range": {
+        "startLine": 49,
+        "startChar": 21,
+        "endLine": 49,
+        "endChar": 23
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ced4bb7e_39a54d3a",
@@ -203,6 +383,30 @@
       "writtenOn": "2022-11-13T17:14:31Z",
       "side": 1,
       "message": "chirp",
+      "range": {
+        "startLine": 76,
+        "startChar": 1,
+        "endLine": 76,
+        "endChar": 6
+      },
+      "revId": "fc901d06ba3546877fff92976a1b798eae318726",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "82f37968_9c1a79c0",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T20:05:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ced4bb7e_39a54d3a",
       "range": {
         "startLine": 76,
         "startChar": 1,
