@@ -16,6 +16,24 @@
       "message": "The change to toolchain hash is unexpected to me. What causes this change?",
       "revId": "fee8973a440d19da63e5e2b08e4da02d35e1e955",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc1275bb_a7bf8336",
+        "filename": "nest-wifi-pro/324946.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000075
+      },
+      "writtenOn": "2022-11-14T21:05:26Z",
+      "side": 0,
+      "message": "I added this as per sdk manifest provided in the buganizer ticket: b/257479032",
+      "parentUuid": "3bf8df95_b290048a",
+      "revId": "fee8973a440d19da63e5e2b08e4da02d35e1e955",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
