@@ -31,7 +31,9 @@
   <project name="watchdog" remote="nest-open-source" revision="78fb399aecfe17c370092df110f143d0792e996e"/>
   <project name="zlib" remote="nest-open-source" revision="b666e17a62283dee172fe871905aaffe5c700228"/>
   <project name="ethtool" remote="nest-open-source" revision="8a02481d3d09e0e94755f282923c0ca17f47eed0"/>
-  <project name="libusb" remote="nest-open-source" revision="75f7cd68c64cc37f0bc24a5f1d75dd4d8892da90"/>
-  <project name="toolchain" remote="nest-open-source" revision="554b0d8a522f8c2ac13dd09a8eb5626e009c4bf2"/>
   <project name="nspr" remote="nest-open-source" revision="1c058689d82d08dfcd3e97cd659a524a90060939"/>
+  <project name="toolchain" remote="nest-open-source" revision="6780b963c23698eec2da1b808ecb804d273516cf"/>
+  <project name="bootloader" remote="nest-open-source" revision="1f353a626813f3d9091f3489413adf3d399bbcb8"/>
+  <project name="kernel" remote="nest-open-source" revision="c1d59288b888e524d653aac048130c5a9ed6ed17"/>
+  <project name="sdk" remote="nest-open-source" revision="6a1507de03e5575cec9b8f2dea709f3ed9b81426"/>
 </manifest>
