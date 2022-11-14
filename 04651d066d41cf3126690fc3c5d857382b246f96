@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "725a64a5_f133c087",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-14T21:13:04Z",
+      "side": 1,
+      "message": "Xiaodong please clarify the toolchain versions. Both manifests in https://buganizer.corp.google.com/issues/257479032#comment9 has a version of toolchain, one from eureka-internal and the other from eureka-partner.",
+      "revId": "04651d066d41cf3126690fc3c5d857382b246f96",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
