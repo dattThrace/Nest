@@ -88,6 +88,24 @@
       "parentUuid": "e32e6a7e_dae6dc46",
       "revId": "04651d066d41cf3126690fc3c5d857382b246f96",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d5a222c_62194274",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-16T22:57:05Z",
+      "side": 1,
+      "message": "Are they the same thing but different versions or two things for different purposes? If the case is former we can mirror the new version only, If they are simply two things we need mirror them both and have to figure out a way to present them separately in the external opensource manifest on nest-open-source.",
+      "parentUuid": "ffe36a98_89c57d1e",
+      "revId": "04651d066d41cf3126690fc3c5d857382b246f96",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
