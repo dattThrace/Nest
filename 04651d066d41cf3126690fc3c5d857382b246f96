@@ -106,6 +106,24 @@
       "parentUuid": "ffe36a98_89c57d1e",
       "revId": "04651d066d41cf3126690fc3c5d857382b246f96",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9674348d_b9c03868",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000070
+      },
+      "writtenOn": "2022-11-16T23:01:07Z",
+      "side": 1,
+      "message": "They are from the same git repo, but different branches. 0d894f3f614e5eb5e18e5f99b277264f75d42acc is one commit above 41cb757b2b16594e6c5d1d76434e174e331d378b",
+      "parentUuid": "2d5a222c_62194274",
+      "revId": "04651d066d41cf3126690fc3c5d857382b246f96",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
