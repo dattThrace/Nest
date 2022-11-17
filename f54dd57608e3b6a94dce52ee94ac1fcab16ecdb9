@@ -17,5 +17,40 @@
       "revId": "f54dd57608e3b6a94dce52ee94ac1fcab16ecdb9",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
+  ],
+  "submitRequirementResults": [
+    {
+      "submitRequirement": {
+        "name": "Review-Enforcement",
+        "description": {
+          "value": "Two Google employees must approve the change. Uploading the change or voting positively on Code-Review count as approval."
+        },
+        "applicabilityExpression": {
+          "value": {
+            "expressionString": "is:review-enforced_gerrit"
+          }
+        },
+        "submittabilityExpression": {
+          "expressionString": "is:review-enforcement-satisfied_gerrit"
+        },
+        "overrideExpression": {},
+        "allowOverrideInChildProjects": false
+      },
+      "applicabilityExpressionResult": {
+        "value": {"expression":{"expressionString":"is:review-enforced_gerrit"},"status":"PASS","errorMessage":{"value":null},"passingAtoms":["is:review-enforced_gerrit"],"failingAtoms":[]}
+      },
+      "submittabilityExpressionResult": {
+        "value": {"expression":{"expressionString":"is:review-enforced_gerrit"},"status":"PASS","errorMessage":{"value":null},"passingAtoms":[],"failingAtoms":["is:review-enforcement-satisfied_gerrit"]}
+      },
+      "overrideExpressionResult": {},
+      "patchSetCommitId": "f54dd57608e3b6a94dce52ee94ac1fcab16ecdb9",
+      "legacy": {
+        "value": false
+      },
+      "forced": {},
+      "hidden": {
+        "value": true
+      }
+    }
   ]
 }
