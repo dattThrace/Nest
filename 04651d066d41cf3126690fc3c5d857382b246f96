@@ -124,6 +124,24 @@
       "parentUuid": "2d5a222c_62194274",
       "revId": "04651d066d41cf3126690fc3c5d857382b246f96",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b4070d5_1248b8e5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-17T08:03:39Z",
+      "side": 1,
+      "message": "Roja, let\u0027s use the newer version of the prebuilt/toolchain, which means keep the version already in this manifest.",
+      "parentUuid": "9674348d_b9c03868",
+      "revId": "04651d066d41cf3126690fc3c5d857382b246f96",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
