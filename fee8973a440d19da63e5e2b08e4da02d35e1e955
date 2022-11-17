@@ -52,6 +52,24 @@
       "parentUuid": "bc1275bb_a7bf8336",
       "revId": "fee8973a440d19da63e5e2b08e4da02d35e1e955",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ba740f42_7d8860c8",
+        "filename": "nest-wifi-pro/324946.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000075
+      },
+      "writtenOn": "2022-11-17T18:41:25Z",
+      "side": 0,
+      "message": "Ack",
+      "parentUuid": "927d01bb_0a6630e3",
+      "revId": "fee8973a440d19da63e5e2b08e4da02d35e1e955",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
