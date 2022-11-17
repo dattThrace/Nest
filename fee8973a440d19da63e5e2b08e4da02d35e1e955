@@ -34,6 +34,24 @@
       "parentUuid": "3bf8df95_b290048a",
       "revId": "fee8973a440d19da63e5e2b08e4da02d35e1e955",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "927d01bb_0a6630e3",
+        "filename": "nest-wifi-pro/324946.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-17T08:06:25Z",
+      "side": 0,
+      "message": "As mentioned in the other thread let\u0027s keep the previous value. So no change should be made to toolchain.",
+      "parentUuid": "bc1275bb_a7bf8336",
+      "revId": "fee8973a440d19da63e5e2b08e4da02d35e1e955",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
