@@ -117,6 +117,30 @@
       },
       "revId": "781d2fad254761cee384661803286583c97a1e9e",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66546b4e_1db7745b",
+        "filename": "google_nest_mini_v2/324896.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-18T20:31:10Z",
+      "side": 1,
+      "message": "will improve the naming in the next release. The important thing is we publish the code.",
+      "parentUuid": "83fda880_b9388553",
+      "range": {
+        "startLine": 21,
+        "startChar": 17,
+        "endLine": 21,
+        "endChar": 23
+      },
+      "revId": "781d2fad254761cee384661803286583c97a1e9e",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
