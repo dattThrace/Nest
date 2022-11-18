@@ -24,6 +24,30 @@
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d3969e58_0d6d742b",
+        "filename": "google_home/324896.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-18T18:51:14Z",
+      "side": 1,
+      "message": "The source is \u0027kernel/salami\u0027. My script takes only the path basename. A bit awkward, but I don\u0027t want to make the script even more complicated. I plan to re-write it in python. I will have more flexibility then.",
+      "parentUuid": "6262d95c_2147a3cb",
+      "range": {
+        "startLine": 19,
+        "startChar": 17,
+        "endLine": 19,
+        "endChar": 23
+      },
+      "revId": "781d2fad254761cee384661803286583c97a1e9e",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a67555d2_cbf1d57a",
@@ -37,6 +61,30 @@
       "writtenOn": "2022-11-18T18:40:42Z",
       "side": 1,
       "message": "same\nkernel or valens/kernel\nor\npath\u003d\"kernel\", name\u003d\"valens\"",
+      "range": {
+        "startLine": 21,
+        "startChar": 17,
+        "endLine": 21,
+        "endChar": 23
+      },
+      "revId": "781d2fad254761cee384661803286583c97a1e9e",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8edb8282_4e729442",
+        "filename": "google_nest_mini_v2/324896.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2022-11-18T18:51:14Z",
+      "side": 1,
+      "message": "The source is \u0027kernel/valens\u0027. My script takes only the path basename. A bit awkward, but I don\u0027t want to make the script even more complicated. I plan to re-write it in python. I will have more flexibility then.",
+      "parentUuid": "a67555d2_cbf1d57a",
       "range": {
         "startLine": 21,
         "startChar": 17,
