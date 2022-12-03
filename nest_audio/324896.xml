@@ -3,6 +3,7 @@
   <remote fetch="https://nest-open-source.googlesource.com/manifest_repos" name="nest-open-source"/>
   <project name="alsa-lib" remote="nest-open-source" revision="91b115c7e2882e4b0087bde5650efc541c438b1a"/>
   <project name="alsa-utils" remote="nest-open-source" revision="858b2fc35f68009d5f98b3d663bc9b320ebdfe22"/>
+  <project name="chromium_src" remote="nest-open-source" revision="1389d67935ffbffe8a70c1fa06867f6cf7ecf464"/>
   <project name="cryptsetup" remote="nest-open-source" revision="3a262f0bc7b6e4ef39a61dd64ee5f31e5aef12d3"/>
   <project name="dnsmasq" remote="nest-open-source" revision="c3b7385e1e6b39b363450f5bb79f0630d05e20df"/>
   <project name="i2c-tools" remote="nest-open-source" revision="870a7087a41b6080526527887f9a48eb2835f04c"/>
