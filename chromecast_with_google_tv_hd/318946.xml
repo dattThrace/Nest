@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://nest-open-source.googlesource.com/manifest_repos" name="nest-open-source"/>
+  <project name="u-boot" remote="nest-open-source" revision="06419a4bae2adcdd0ed4e73f93f3f40a82172e45"/>
+  <project name="kernel" remote="nest-open-source" revision="38bda478e46f3b6ec246861d597470685679add1"/>
+  <project name="nxp-driver" remote="nest-open-source" revision="1acb4b26622038d5303898336f9bd4c746fb9dc0"/>
+  <project name="media_modules" remote="nest-open-source" revision="cc8ff82a4d1fde9950bd0081bfcb2670331f3ad4"/>
+  <project name="mali-driver" remote="nest-open-source" revision="0bde759bc5682bba7de558e308410bbc6d08d2d8"/>
+  <project name="optee_linuxdriver" remote="nest-open-source" revision="a2286c2be42e3d83b6ca6b54b28219e5f0c42a10"/>
+</manifest>
