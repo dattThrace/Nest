@@ -1,0 +1,78 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49d8471c_bee2eca9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000225
+      },
+      "writtenOn": "2023-01-12T10:00:21Z",
+      "side": 1,
+      "message": "Thanks!",
+      "revId": "682d13ad01ceb566ebc37845fee8dd09d3eda415",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "39ee6504_e2d0cefc",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1000225
+      },
+      "writtenOn": "2023-01-12T10:00:21Z",
+      "side": 1,
+      "message": "```\n## Google Nest stream products\n```",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 18
+      },
+      "revId": "682d13ad01ceb566ebc37845fee8dd09d3eda415",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e882d1b4_f3226bc6",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000225
+      },
+      "writtenOn": "2023-01-12T10:00:21Z",
+      "side": 1,
+      "message": "Add userspace opensource here per b/261138703#comment17.",
+      "revId": "682d13ad01ceb566ebc37845fee8dd09d3eda415",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "843bb81f_f393b264",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1000225
+      },
+      "writtenOn": "2023-01-12T10:00:21Z",
+      "side": 1,
+      "message": "Add userspace opensource here per b/261138703#comment17.",
+      "revId": "682d13ad01ceb566ebc37845fee8dd09d3eda415",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
