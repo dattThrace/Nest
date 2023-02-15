@@ -52,6 +52,18 @@ For the device userspace opensource, please [download AOSP code](https://source.
 
 ## Google Nest speakers and smart displays
 
+### Nest tablet speaker dock
+
+The open source manifests for Nest tablet speaker dock releases can be found under
+[nest_tablet_speaker_dock](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_tablet_speaker_dock)
+folder. For example, to download the code specified in `332726.xml`,
+please run the following commands.
+
+```shell
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_tablet_speaker_dock/332726.xml
+$ repo sync
+```
+
 ### Google Nest Hub 7", 2nd gen
 
 The open source manifests for Nest Wifi Pro releases can be found under
