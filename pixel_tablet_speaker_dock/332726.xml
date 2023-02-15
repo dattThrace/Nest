@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://nest-open-source.googlesource.com/manifest_repos" name="nest-open-source"/>
+  <project name="alsa-lib" remote="nest-open-source" revision="6a17234a46ab0c259d1acbd4b30a423d280f8716"/>
+  <project name="alsa-utils" remote="nest-open-source" revision="858b2fc35f68009d5f98b3d663bc9b320ebdfe22"/>
+  <project name="chromium_src" remote="nest-open-source" revision="843bbb3bb34080a582b730da36421118dca26e74"/>
+  <project name="dnsmasq" remote="nest-open-source" revision="819f687ab51506d8f3b67b4fa236b3b5ec0adae9"/>
+  <project name="i2c-tools" remote="nest-open-source" revision="870a7087a41b6080526527887f9a48eb2835f04c"/>
+  <project name="libgpiod" remote="nest-open-source" revision="9b4eb231720f8ebbce1d500c6d50421e673b88c4"/>
+  <project name="lvm2" remote="nest-open-source" revision="a78b5231016105c280db9c7ead6048a9f7a86099"/>
+  <project name="mtd-utils" remote="nest-open-source" revision="288ecb099d85d402c2e9065f5cb02e6c5dfede5d"/>
+  <project name="nss" remote="nest-open-source" revision="7736bff482ac9e569ce0726f3ff6c1856ee7a50e"/>
+  <project name="selinux" remote="nest-open-source" revision="8165f0001d4a8e910c21f869c98bcd8713434676"/>
+  <project name="util-linux" remote="nest-open-source" revision="df9b1ae06a927596cdb216a85f62cd30a35d832e"/>
+  <project name="watchdog" remote="nest-open-source" revision="78fb399aecfe17c370092df110f143d0792e996e"/>
+  <project name="zlib" remote="nest-open-source" revision="c8d13ac1456f00e7c66439c15902d32d797043ee"/>
+  <project name="libusb" remote="nest-open-source" revision="75f7cd68c64cc37f0bc24a5f1d75dd4d8892da90"/>
+  <project name="toolchain" remote="nest-open-source" revision="9718e79492616dc358f8c49ebe8d178e2283628a"/>
+  <project name="nspr" remote="nest-open-source" revision="5a687b14dbadfd653471e0973d64497515c10ea8"/>
+  <project name="kernel" remote="nest-open-source" revision="0109c45191d4b2385ba676f460c914e16ddf4cb8"/>
+  <project name="u-boot" remote="nest-open-source" revision="32f2544bf313f8ca4c6026c2ea8bbba41057be35"/>
+</manifest>
