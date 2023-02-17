@@ -46,6 +46,30 @@
       },
       "revId": "b21b8b2f3db990b6b50d31b89b6a09752a447268",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "89a856d9_20776dbb",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2023-02-17T18:21:16Z",
+      "side": 1,
+      "message": "That\u0027s why we should consolidate the GDoc into the Help pages and keep this references to Help.",
+      "parentUuid": "29f10681_4abaef8f",
+      "range": {
+        "startLine": 7,
+        "startChar": 26,
+        "endLine": 7,
+        "endChar": 141
+      },
+      "revId": "b21b8b2f3db990b6b50d31b89b6a09752a447268",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
