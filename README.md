@@ -4,7 +4,7 @@
 
 Open source code for various Google Nest Wifis, Nest spreakers and displays
 versions after released after Oct, 2022 can be found below. For previous
-versions please refer to the [Google Support page](https://support.google.com/product-documentation/topic/6355909).
+versions please refer to [this page](https://docs.google.com/document/u/1/d/e/2PACX-1vRzvy_bbLqvFmd0kOIwxjeG2Aa1xHJy7zp2q48BVmc-kvbwj6RtfaOWhUprHADbA5szvJCO_gaE-aKO/pub).
 
 ## Nest Wifi products
 
