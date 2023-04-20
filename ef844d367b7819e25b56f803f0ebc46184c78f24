@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be62a36a_0875b3b4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000005
+      },
+      "writtenOn": "2023-04-20T19:26:42Z",
+      "side": 1,
+      "message": "Rename \"Nest tablet\" to \"Pixel tablet\". Please review again.",
+      "revId": "ef844d367b7819e25b56f803f0ebc46184c78f24",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
