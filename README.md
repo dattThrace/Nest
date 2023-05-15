@@ -12,11 +12,11 @@ versions please refer to the [Google Support page](https://support.google.com/pr
 
 The open source manifests for Nest Wifi Pro releases can be found under
 [nest_wifi_pro](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_wifi_pro)
-folder. For example, to download the code specified in `308974.xml`,
+folder. For example, to download the code specified in `355999.xml`,
 please run the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wifi_pro/308974.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wifi_pro/355999.xml
 $ repo sync
 ```
 
