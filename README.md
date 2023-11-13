@@ -20,36 +20,6 @@ $ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m ne
 $ repo sync
 ```
 
-## Google Nest streaming products
-
-### Chromecast with Google TV 4K
-
-The open source manifests for the kernel and bootlooder of Chromecast with Google TV 4K releases can be found under
-[chromecast_with_google_tv_4k](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/chromecast_with_google_tv_4k)
-folder. For example, to download the code specified in `321968.xml`,
-please run the following commands.
-
-```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m chromecast_with_google_tv_4k/321968.xml
-$ repo sync
-```
-
-For the device userspace opensource, please [download AOSP code](https://source.android.com/docs/setup/download/downloading).
-
-### Chromecast with Google TV HD
-
-The open source manifests for the kernel and bootlooder of Chromecast with Google TV HD releases can be found under
-[chromecast_with_google_tv_hd](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/chromecast_with_google_tv_hd)
-folder. For example, to download the code specified in `318946.xml`,
-please run the following commands.
-
-```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m chromecast_with_google_tv_hd/318946.xml
-$ repo sync
-```
-
-For the device userspace opensource, please [download AOSP code](https://source.android.com/docs/setup/download/downloading).
-
 ## Google Nest speakers and smart displays
 
 ### Google Nest Hub 7", 2nd gen
