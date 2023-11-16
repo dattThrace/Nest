@@ -102,7 +102,7 @@ $ repo sync
 
 ### Google Nest Mini
 
-The open source manifests for Nest Nest Mini releases can be found under
+The open source manifests for Google Nest Mini releases can be found under
 [google_nest_mini](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/google_nest_mini)
 folder. For example, to download the code specified in `324896.xml`,
 please run the following commands.
