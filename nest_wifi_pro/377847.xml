@@ -32,9 +32,9 @@
   <project name="ethtool" remote="nest-open-source" revision="8a02481d3d09e0e94755f282923c0ca17f47eed0"/>
   <project name="libusb" remote="nest-open-source" revision="75f7cd68c64cc37f0bc24a5f1d75dd4d8892da90"/>
   <project name="go/linux-x86" remote="nest-open-source" revision="3367e8740dc9e37f09ed3928a3211bcbc082d3da"/>
-  <project name="toolchain-user-space" alias="toolchain" remote="nest-open-source" revision="554b0d8a522f8c2ac13dd09a8eb5626e009c4bf2"/>
+  <project path="toolchain/user-space" name="toolchain" remote="nest-open-source" revision="554b0d8a522f8c2ac13dd09a8eb5626e009c4bf2"/>
   <project name="nspr" remote="nest-open-source" revision="1c058689d82d08dfcd3e97cd659a524a90060939"/>
-  <project name="toolchain-kernel-space" alias="toolchain" remote="nest-open-source" revision="6780b963c23698eec2da1b808ecb804d273516cf"/>
+  <project path="toolchain/kernel-space" name="toolchain" remote="nest-open-source" revision="6780b963c23698eec2da1b808ecb804d273516cf"/>
   <project name="bootloader" remote="nest-open-source" revision="1f353a626813f3d9091f3489413adf3d399bbcb8"/>
   <project name="kernel" remote="nest-open-source" revision="b48fa9174b561bfcfb20a93e98dad6a9611a0f7b"/>
   <project name="sdk" remote="nest-open-source" revision="f4bd65b4a85a01ce902e64c942e5eeebccaf4067"/>
