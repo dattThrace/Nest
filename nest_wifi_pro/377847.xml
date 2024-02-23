@@ -7,7 +7,7 @@
   <project name="conntrack-tools" remote="nest-open-source" revision="4c4e40093d0f0c116a93c1ce5373c58cf9fd3d70"/>
   <project name="cryptsetup" remote="nest-open-source" revision="3a262f0bc7b6e4ef39a61dd64ee5f31e5aef12d3"/>
   <project name="dbus" remote="nest-open-source" revision="43c6348542b72e8edfee011a4c17a3f3dee0c63a"/>
-  <project name="dnsmasq" remote="nest-open-source" revision="819f687ab51506d8f3b67b4fa236b3b5ec0adae9"/>
+  <project name="dnsmasq" remote="nest-open-source" revision="a8fa945be6d37aa5d0bc7d67435e51c14f4bf237"/>
   <project name="ebtables" remote="nest-open-source" revision="0c98f6016b2a6e1ea3a5e140e370952ea1e493a5"/>
   <project name="glib" remote="nest-open-source" revision="f9eacd19594faf757a7b3e9c9b37aa3c418337f5"/>
   <project name="igmpproxy" remote="nest-open-source" revision="c54ba6ad0e92486f1a964eeabca08913d2cba90b"/>
