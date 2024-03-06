@@ -21,6 +21,56 @@ $ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m ne
 $ repo sync
 ```
 
+## Google awareness products
+
+### Nest wired indoor
+
+The open source manifests for Nest wired indoor releases can be found under
+[nest_wired_indoor](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_wired_indoor)
+folder. For example, to download the code specified in `393812.xml`, please run
+the following commands.
+
+```shell
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wired_indoor/393812.xml
+$ repo sync
+```
+
+### Nest outdoor
+
+The open source manifests for Nest outdoor releases can be found under
+[nest_outdoor](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_outdoor)
+folder. For example, to download the code specified in `393812.xml`, please run
+the following commands.
+
+```shell
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_outdoor/393812.xml
+$ repo sync
+```
+
+### Nest battery doorbell
+
+The open source manifests for Nest battery doorbell releases can be found under
+[nest_battery_doorbell](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_battery_doorbell)
+folder. For example, to download the code specified in `393812.xml`, please run
+the following commands.
+
+```shell
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_battery_doorbell/393812.xml
+$ repo sync
+```
+
+### Nest wired doorbell
+
+The open source manifests for Nest battery doorbell releases can be found under
+[nest_wired_doorbell](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_wired_doorbell)
+folder. For example, to download the code specified in `393812.xml`, please run
+the following commands.
+
+```shell
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wired_doorbell/393812.xml
+$ repo sync
+```
+
 ## Google Nest streaming products
 
 ### Chromecast with Google TV 4K
