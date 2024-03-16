@@ -78,11 +78,11 @@ $ repo sync
 The open source manifests for the kernel and bootlooder of Chromecast with
 Google TV 4K releases can be found under
 [chromecast_with_google_tv_4k](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/chromecast_with_google_tv_4k)
-folder. For example, to download the code specified in `342494.xml`, please run
+folder. For example, to download the code specified in `396134.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m chromecast_with_google_tv_4k/342494.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m chromecast_with_google_tv_4k/396134.xml
 $ repo sync
 ```
 
@@ -94,11 +94,11 @@ For the device userspace opensource, please
 The open source manifests for the kernel and bootlooder of Chromecast with
 Google TV HD releases can be found under
 [chromecast_with_google_tv_hd](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/chromecast_with_google_tv_hd)
-folder. For example, to download the code specified in `342514.xml`, please run
+folder. For example, to download the code specified in `396135.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m chromecast_with_google_tv_hd/342514.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m chromecast_with_google_tv_hd/396135.xml
 $ repo sync
 ```
 
