@@ -112,11 +112,11 @@ For the device userspace opensource, please
 The open source manifests for Pixel tablet speaker dock releases can be found
 under
 [pixel_tablet_speaker_dock](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/pixel_tablet_speaker_dock)
-folder. For example, to download the code specified in `332726.xml`, please run
+folder. For example, to download the code specified in `374000.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m pixel_tablet_speaker_dock/332726.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m pixel_tablet_speaker_dock/374000.xml
 $ repo sync
 ```
 
