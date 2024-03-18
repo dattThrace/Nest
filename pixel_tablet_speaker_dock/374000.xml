@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://nest-open-source.googlesource.com/manifest_repos" name="nest-open-source"/>
+  <project name="chromium_src" remote="nest-open-source" revision="26246333ab5d8335a278146293886e68769e78db"/>
+  <project name="alsa-lib" remote="nest-open-source" revision="6a17234a46ab0c259d1acbd4b30a423d280f8716"/>
+  <project name="alsa-utils" remote="nest-open-source" revision="858b2fc35f68009d5f98b3d663bc9b320ebdfe22"/>
+  <project name="dnsmasq" remote="nest-open-source" revision="fa55dec6cc30dc850f83de5793290cb097a001bc"/>
+  <project name="i2c-tools" remote="nest-open-source" revision="870a7087a41b6080526527887f9a48eb2835f04c"/>
+  <project name="libgpiod" remote="nest-open-source" revision="9b4eb231720f8ebbce1d500c6d50421e673b88c4"/>
+  <project name="lvm2" remote="nest-open-source" revision="a78b5231016105c280db9c7ead6048a9f7a86099"/>
+  <project name="mtd-utils" remote="nest-open-source" revision="288ecb099d85d402c2e9065f5cb02e6c5dfede5d"/>
+  <project name="nss" remote="nest-open-source" revision="d866f1a8e32141c1254a2b2425050e16213094e3"/>
+  <project name="selinux" remote="nest-open-source" revision="8165f0001d4a8e910c21f869c98bcd8713434676"/>
+  <project name="util-linux" remote="nest-open-source" revision="df9b1ae06a927596cdb216a85f62cd30a35d832e"/>
+  <project name="watchdog" remote="nest-open-source" revision="78fb399aecfe17c370092df110f143d0792e996e"/>
+  <project name="zlib" remote="nest-open-source" revision="c8d13ac1456f00e7c66439c15902d32d797043ee"/>
+  <project name="libusb" remote="nest-open-source" revision="75f7cd68c64cc37f0bc24a5f1d75dd4d8892da90"/>
+  <project name="toolchain" remote="nest-open-source" revision="969633aa71907b5f0315fb43810520d343f8c187"/>
+  <project name="nspr" remote="nest-open-source" revision="5a687b14dbadfd653471e0973d64497515c10ea8"/>
+</manifest>
