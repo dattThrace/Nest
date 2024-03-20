@@ -6,6 +6,7 @@
   <project name="avahi" remote="nest-open-source" revision="9f2bda615e5c878ba071e799ac0049fd6ef4dfa0"/>
   <project name="bridge-utils" remote="nest-open-source" revision="8b8eff849b811c978eddc4c0194769589100c990"/>
   <project name="conntrack-tools" remote="nest-open-source" revision="4c4e40093d0f0c116a93c1ce5373c58cf9fd3d70"/>
+  <project name="core" remote="nest-open-source" revision="2e8e8ca9a69d05469f5c7b645e65c2935507ef27"/>
   <project name="cryptsetup" remote="nest-open-source" revision="3a262f0bc7b6e4ef39a61dd64ee5f31e5aef12d3"/>
   <project name="dbus" remote="nest-open-source" revision="43c6348542b72e8edfee011a4c17a3f3dee0c63a"/>
   <project name="dnsmasq" remote="nest-open-source" revision="b31687f266ddf08f34392c32e2b0fbba4783f422"/>
