@@ -27,11 +27,11 @@ $ repo sync
 
 The open source manifests for Nest wired indoor releases can be found under
 [nest_wired_indoor](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_wired_indoor)
-folder. For example, to download the code specified in `393812.xml`, please run
+folder. For example, to download the code specified in `416403.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wired_indoor/393812.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wired_indoor/416403.xml
 $ repo sync
 ```
 
@@ -39,11 +39,11 @@ $ repo sync
 
 The open source manifests for Nest outdoor releases can be found under
 [nest_outdoor](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_outdoor)
-folder. For example, to download the code specified in `393812.xml`, please run
+folder. For example, to download the code specified in `416403.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_outdoor/393812.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_outdoor/416403.xml
 $ repo sync
 ```
 
@@ -51,11 +51,11 @@ $ repo sync
 
 The open source manifests for Nest battery doorbell releases can be found under
 [nest_battery_doorbell](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_battery_doorbell)
-folder. For example, to download the code specified in `393812.xml`, please run
+folder. For example, to download the code specified in `416403.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_battery_doorbell/393812.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_battery_doorbell/416403.xml
 $ repo sync
 ```
 
@@ -63,11 +63,11 @@ $ repo sync
 
 The open source manifests for Nest battery doorbell releases can be found under
 [nest_wired_doorbell](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_wired_doorbell)
-folder. For example, to download the code specified in `393812.xml`, please run
+folder. For example, to download the code specified in `416403.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wired_doorbell/393812.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wired_doorbell/416403.xml
 $ repo sync
 ```
 
