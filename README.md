@@ -136,11 +136,11 @@ $ repo sync
 
 The open source manifests for Nest Audio releases can be found under
 [nest_audio](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/nest_audio)
-folder. For example, to download the code specified in `324896.xml`, please run
+folder. For example, to download the code specified in `415414.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_audio/324896.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_audio/415414.xml
 $ repo sync
 ```
 
@@ -148,11 +148,11 @@ $ repo sync
 
 The open source manifests for Google Nest Mini v2 releases can be found under
 [google_nest_mini_v2](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/google_nest_mini_v2)
-folder. For example, to download the code specified in `324896.xml`, please run
+folder. For example, to download the code specified in `415414.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m google_nest_mini_v2/324896.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m google_nest_mini_v2/415414.xml
 $ repo sync
 ```
 
@@ -160,11 +160,11 @@ $ repo sync
 
 The open source manifests for Google Nest Mini releases can be found under
 [google_nest_mini](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/google_nest_mini)
-folder. For example, to download the code specified in `324896.xml`, please run
+folder. For example, to download the code specified in `415414.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m google_nest_mini/324896.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m google_nest_mini/415414.xml
 $ repo sync
 ```
 
@@ -172,11 +172,11 @@ $ repo sync
 
 The open source manifests for Google Home releases can be found under
 [google_home](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/google_home)
-folder. For example, to download the code specified in `324896.xml`, please run
+folder. For example, to download the code specified in `415414.xml`, please run
 the following commands.
 
 ```shell
-$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m google_home/324896.xml
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m google_home/415414.xml
 $ repo sync
 ```
 
