@@ -44,4 +44,7 @@
   <project name="llvm_toolchain" remote="nest-open-source" revision="b5c6f2d825b6a7947c3bb20966ed7cbc4ec17fdd"/>
   <project name="sdk" remote="nest-open-source" revision="bb46466bac6bebfbcdc2e65b58f67586f0c3b503"/>
   <project name="ta" remote="nest-open-source" revision="1438415bd3f2fd4171a5c8f2c2076fe3fef07ad0"/>
+  <project name="licenses" remote="nest-open-source" revision="cde9f758d5c884154d648f2273b32c7a667da0b5">
+    <linkfile src="nest_wifi_pro/NOTICE.txt" dest="NOTICE.txt"/>
+  </project>
 </manifest>
