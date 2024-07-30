@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "996e1cf2_c9e14b7e",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 3304935
+      },
+      "writtenOn": "2024-07-30T18:58:43Z",
+      "side": 1,
+      "message": "424613 ?",
+      "range": {
+        "startLine": 16,
+        "startChar": 56,
+        "endLine": 16,
+        "endChar": 62
+      },
+      "fixSuggestions": [
+        {
+          "fixId": "77438868_a4f4513b",
+          "description": "prompt_to_edit API",
+          "replacements": [
+            {
+              "path": "README.md",
+              "range": {
+                "startLine": 16,
+                "startChar": 0,
+                "endLine": 17,
+                "endChar": 0
+              },
+              "replacement": "folder. For example, to download the code specified in `424613.xml`, please run\n"
+            },
+            {
+              "path": "README.md",
+              "range": {
+                "startLine": 20,
+                "startChar": 0,
+                "endLine": 21,
+                "endChar": 0
+              },
+              "replacement": "$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m nest_wifi_pro/424613.xml\n"
+            }
+          ]
+        }
+      ],
+      "revId": "105fb078ee8d069fa8e9f5e004084fda0e437570",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}
