@@ -50,6 +50,30 @@
       ],
       "revId": "105fb078ee8d069fa8e9f5e004084fda0e437570",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "74c6fa99_8c014615",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000735
+      },
+      "writtenOn": "2024-07-31T07:30:23Z",
+      "side": 1,
+      "message": "Done. Thanks for catching.",
+      "parentUuid": "996e1cf2_c9e14b7e",
+      "range": {
+        "startLine": 16,
+        "startChar": 56,
+        "endLine": 16,
+        "endChar": 62
+      },
+      "revId": "105fb078ee8d069fa8e9f5e004084fda0e437570",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
