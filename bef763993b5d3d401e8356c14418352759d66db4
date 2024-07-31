@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e8cb518_860f7d4a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3304935
+      },
+      "writtenOn": "2024-07-31T16:31:33Z",
+      "side": 1,
+      "message": "Without a space before \"remote\" in 424613.xml, I couldn\u0027t sync the code.",
+      "revId": "bef763993b5d3d401e8356c14418352759d66db4",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    }
+  ]
+}

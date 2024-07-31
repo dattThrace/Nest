@@ -74,6 +74,29 @@
       },
       "revId": "105fb078ee8d069fa8e9f5e004084fda0e437570",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fcef7ccc_311549d4",
+        "filename": "nest_wifi_pro/424613.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 3304935
+      },
+      "writtenOn": "2024-07-31T16:31:33Z",
+      "side": 1,
+      "message": "add a space before remote",
+      "range": {
+        "startLine": 40,
+        "startChar": 56,
+        "endLine": 40,
+        "endChar": 58
+      },
+      "revId": "105fb078ee8d069fa8e9f5e004084fda0e437570",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
