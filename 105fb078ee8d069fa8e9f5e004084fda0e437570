@@ -97,6 +97,30 @@
       },
       "revId": "105fb078ee8d069fa8e9f5e004084fda0e437570",
       "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "24484d6d_32a2693d",
+        "filename": "nest_wifi_pro/424613.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1000735
+      },
+      "writtenOn": "2024-07-31T16:40:40Z",
+      "side": 1,
+      "message": "Oops. Thanks for catching again.",
+      "parentUuid": "fcef7ccc_311549d4",
+      "range": {
+        "startLine": 40,
+        "startChar": 56,
+        "endLine": 40,
+        "endChar": 58
+      },
+      "revId": "105fb078ee8d069fa8e9f5e004084fda0e437570",
+      "serverId": "cb58ddb2-17e6-3f89-b09c-9802437a0b02"
     }
   ]
 }
