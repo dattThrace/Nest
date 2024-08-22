@@ -105,6 +105,24 @@ $ repo sync
 For the device userspace opensource, please
 [download AOSP code](https://source.android.com/docs/setup/download/downloading).
 
+### Google TV Streamer
+
+The open source manifests for the device-specific kernel code for Google TV
+Streamer can be found under
+[google_tv_streamer](https://nest-open-source.googlesource.com/manifests/+/refs/heads/main/google_tv_streamer)
+folder. For example, to download the code specified in `431402.xml`, please run
+the following commands.
+
+```shell
+$ repo init -u https://nest-open-source.googlesource.com/manifests -b main -m google_tv_streamer/431402.xml
+$ repo sync
+```
+
+The remainder of the kernel code for Google TV Streamer is available as the
+[GKI kernel source](https://android.googlesource.com/kernel/manifest/+/refs/heads/common-android14-5.15/default.xml).
+For the device userspace opensource, please download the
+[AOSP code](https://source.android.com/docs/setup/download/downloading).
+
 ## Google Nest speakers and smart displays
 
 ### Pixel tablet speaker dock

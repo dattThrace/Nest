@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://nest-open-source.googlesource.com/manifest_repos" name="nest-open-source"/>
+  <project name="sdio" remote="nest-open-source" revision="0d96cc511529b9f1b60c29de90047e0e8eb6a452"/>
+  <project name="gen4-mt7663" remote="nest-open-source" revision="f150ae1559f03a5164842c1e5a0ac3be4b1ad7e5"/>
+  <project name="linux_v2" remote="nest-open-source" revision="9a4b6361ebf17db2394580d27873bd5fc3fdd599"/>
+  <project name="kernel_device_modules-5.15" remote="nest-open-source" revision="36ad3f446978be6a8e724c162e7a05b1cc587c8e"/>
+</manifest>
